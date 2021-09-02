@@ -1,5 +1,6 @@
 import React from "react";
 
+
 export const Tile = (object) => {
 
 
@@ -8,25 +9,34 @@ export const Tile = (object) => {
   }
 
   return (
+
+   
     <div className="tile-container">
+
       <p className='title-title' id='contactFont'>
-        {object.value.name}
-        <br/>
-        {object.value.phone}
-        <br/>
-        {object.value.email}
-      </p>
-      {/* <p className='title-title' id='contactFont'>
         {object.value.title}
-        <br/>
+        
         {object.value.contact}
-        <br/>
+       
         {object.value.date}
-        <br/>
+
         {object.value.time}
+     
+        {object.value.name}
+    
+        {object.value.phone}
+     
+        {object.value.email}
+       
+        {object.value.contact}
+       
       </p>
-       */}
+
+
+ 
     </div>
+
+    
   );
 };
 

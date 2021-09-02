@@ -26,11 +26,9 @@ export function App() {
 const addContact = (name, phone, email) => {
   setContacts((prev)=>{
     
-      return [...prev, { name, email, phone } ]
-      
+      return [...prev, { name, email, phone } ]    
    })
-   console.log(contacts)
-}
+};
 
 const addAppointment = (title, contact, date, time) =>{
   setAppointments((prev)=>{
@@ -41,10 +39,10 @@ const addAppointment = (title, contact, date, time) =>{
   return (
     <>
       <nav>
-        <NavLink to={ROUTES.CONTACTS} activeClassName="active">
+        <NavLink to={ROUTES.CONTACTS} id='title' activeClassName="active">
           Contacts
         </NavLink>
-        <NavLink to={ROUTES.APPOINTMENTS} activeClassName="active">
+        <NavLink to={ROUTES.APPOINTMENTS} id='title' activeClassName="active">
           Appointments
         </NavLink>
       </nav>
