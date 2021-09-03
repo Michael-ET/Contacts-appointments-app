@@ -8,19 +8,24 @@ export const Tile = (object) => {
     
   }
 
-  return (
 
+
+
+  
+  
+
+  return (
+    
    
     <div className="tile-container">
+      <div className='title-title'>
 
-      <div className='title-title' id='contactFont'>
-        <p>{object.value.name} {object.value.phone} {object.value.email}</p>
-        <p>{object.value.title} with {object.value.contact}</p>
-        <p>{object.value.date} at {object.value.time}</p>
- 
+
+        {object.value.title ? <p id='contactFont'>{object.value.title} with {object.value.contact}<br></br>{object.value.date} at {object.value.time}</p> : <p id='contactFont'>{object.value.name} - {object.value.phone} - {object.value.email}</p> }
+
+
       </div>
     </div>
-
     
   );
 };
