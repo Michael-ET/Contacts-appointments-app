@@ -1,5 +1,4 @@
 import React from "react";
-import app from '../../App'
 import Tile from '../tile/Tile'
 
 export const tileList = ({objArr}) => {

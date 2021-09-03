@@ -24,6 +24,7 @@ nav{
 
 #contactFont{
     color: white;
+    text-align:center;
     text-shadow:black;
     font-size: large;
     background-color: rgba(124, 28, 28, 0.801);;
@@ -32,8 +33,8 @@ nav{
     box-shadow: 10px 10px 10px tan;
     transition: cubic-bezier(0.25, 0.46, 0.45, 0.94);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-emphasis-position: 20px;
     
+
 }
 
 #title{

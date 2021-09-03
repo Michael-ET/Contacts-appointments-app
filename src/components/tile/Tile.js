@@ -13,27 +13,12 @@ export const Tile = (object) => {
    
     <div className="tile-container">
 
-      <p className='title-title' id='contactFont'>
-        {object.value.title}
-        
-        {object.value.contact}
-       
-        {object.value.date}
-
-        {object.value.time}
-     
-        {object.value.name}
-    
-        {object.value.phone}
-     
-        {object.value.email}
-       
-        {object.value.contact}
-       
-      </p>
-
-
+      <div className='title-title' id='contactFont'>
+        <p>{object.value.name} {object.value.phone} {object.value.email}</p>
+        <p>{object.value.title} with {object.value.contact}</p>
+        <p>{object.value.date} at {object.value.time}</p>
  
+      </div>
     </div>
 
     
