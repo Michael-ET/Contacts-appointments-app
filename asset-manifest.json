@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/contacts-appointments-app/static/css/main.3ab6e8e5.chunk.css",
+    "main.js": "/contacts-appointments-app/static/js/main.b274e009.chunk.js",
+    "main.js.map": "/contacts-appointments-app/static/js/main.b274e009.chunk.js.map",
+    "runtime-main.js": "/contacts-appointments-app/static/js/runtime-main.47bafc45.js",
+    "runtime-main.js.map": "/contacts-appointments-app/static/js/runtime-main.47bafc45.js.map",
+    "static/js/2.4cb6c016.chunk.js": "/contacts-appointments-app/static/js/2.4cb6c016.chunk.js",
+    "static/js/2.4cb6c016.chunk.js.map": "/contacts-appointments-app/static/js/2.4cb6c016.chunk.js.map",
+    "index.html": "/contacts-appointments-app/index.html",
+    "static/css/main.3ab6e8e5.chunk.css.map": "/contacts-appointments-app/static/css/main.3ab6e8e5.chunk.css.map",
+    "static/js/2.4cb6c016.chunk.js.LICENSE.txt": "/contacts-appointments-app/static/js/2.4cb6c016.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47bafc45.js",
+    "static/js/2.4cb6c016.chunk.js",
+    "static/css/main.3ab6e8e5.chunk.css",
+    "static/js/main.b274e009.chunk.js"
+  ]
+}
