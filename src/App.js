@@ -38,7 +38,7 @@ const addAppointment = (title, contact, date, time) =>{
 
   return (
     <>
-      <nav>
+      <nav class='mainBox'>
         <NavLink to={ROUTES.CONTACTS} id='title' activeClassName="active">
           Contacts
         </NavLink>
