@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/contacts-appointments-app/static/css/main.3ab6e8e5.chunk.css",
-    "main.js": "/contacts-appointments-app/static/js/main.b274e009.chunk.js",
-    "main.js.map": "/contacts-appointments-app/static/js/main.b274e009.chunk.js.map",
-    "runtime-main.js": "/contacts-appointments-app/static/js/runtime-main.47bafc45.js",
-    "runtime-main.js.map": "/contacts-appointments-app/static/js/runtime-main.47bafc45.js.map",
-    "static/js/2.4cb6c016.chunk.js": "/contacts-appointments-app/static/js/2.4cb6c016.chunk.js",
-    "static/js/2.4cb6c016.chunk.js.map": "/contacts-appointments-app/static/js/2.4cb6c016.chunk.js.map",
-    "index.html": "/contacts-appointments-app/index.html",
-    "static/css/main.3ab6e8e5.chunk.css.map": "/contacts-appointments-app/static/css/main.3ab6e8e5.chunk.css.map",
-    "static/js/2.4cb6c016.chunk.js.LICENSE.txt": "/contacts-appointments-app/static/js/2.4cb6c016.chunk.js.LICENSE.txt"
+    "main.css": "/Contacts-appointments-app/static/css/main.3ab6e8e5.chunk.css",
+    "main.js": "/Contacts-appointments-app/static/js/main.b274e009.chunk.js",
+    "main.js.map": "/Contacts-appointments-app/static/js/main.b274e009.chunk.js.map",
+    "runtime-main.js": "/Contacts-appointments-app/static/js/runtime-main.bbd7ce0f.js",
+    "runtime-main.js.map": "/Contacts-appointments-app/static/js/runtime-main.bbd7ce0f.js.map",
+    "static/js/2.4cb6c016.chunk.js": "/Contacts-appointments-app/static/js/2.4cb6c016.chunk.js",
+    "static/js/2.4cb6c016.chunk.js.map": "/Contacts-appointments-app/static/js/2.4cb6c016.chunk.js.map",
+    "index.html": "/Contacts-appointments-app/index.html",
+    "static/css/main.3ab6e8e5.chunk.css.map": "/Contacts-appointments-app/static/css/main.3ab6e8e5.chunk.css.map",
+    "static/js/2.4cb6c016.chunk.js.LICENSE.txt": "/Contacts-appointments-app/static/js/2.4cb6c016.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.47bafc45.js",
+    "static/js/runtime-main.bbd7ce0f.js",
     "static/js/2.4cb6c016.chunk.js",
     "static/css/main.3ab6e8e5.chunk.css",
     "static/js/main.b274e009.chunk.js"
